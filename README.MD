@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://giphy.com" width="45%" alt="Asta Devil Form - Black Clover" />
-  <img src="https://giphy.com" width="45%" alt="Luffy Gear 5 - One Piece" />
+  <img src="https://media1.tenor.com/m/jyq8idgbmFoAAAAd/asta-devil-union-asta.gif" width="45%" alt="Asta Devil Form - Black Clover" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3d3N2I3eDFnb2dhcDhmYmI1MThkem9lMzBmZDgwcTNoM3M1eDJtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4eTuzu8xIEqdDfPu9J/giphy.gif" width="45%" alt="Luffy Gear 5 - One Piece" />
 </div>
 
 <div align="center">
