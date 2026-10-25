@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=900&color=FF1744&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Asta+%7C+Breaking+Limits+With+Pure+Mathematics;Gear+5+%7C+Defying+Physics+With+Raw+Logic;Tensor+Calculus+%7C+Stochastic+Gradients+%7C+Autodiff;Custom+C%2B%2B+Matrix+Kernels+%7C+GPU+Execution+Graphs" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3200&pause=900&color=FF1744&center=true&vCenter=true&repeat=true&width=900&height=60&lines=CIPHER+%7C+Breaking+Limits+With+Pure+Mathematics;Gear+5+%7C+Defying+Physics+With+Raw+Logic;Tensor+Calculus+%7C+Stochastic+Gradients+%7C+Autodiff;Custom+C%2B%2B+Matrix+Kernels+%7C+GPU+Execution+Graphs" alt="Typing SVG Banner" />
 </div>
 
 <div align="center">
