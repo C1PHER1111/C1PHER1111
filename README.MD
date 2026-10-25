@@ -81,14 +81,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=C1PHER1111&bg_color=0d1117&color=ff1744&line=ff1744&point=ffffff&area=true&area_color=ff1744&hide_border=true" width="100%" alt="C1PHER1111 Contribution Activity Graph" />
 </div>
 
----
-
-## 🐍 Contribution Grid
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/C1PHER1111/C1PHER1111/output/github-snake.svg" width="100%" alt="C1PHER1111 Contribution Snake" />
-</div>
-
-<div align="center">
-  <img src="https://giphy.com" width="100%" alt="Anime Footer Divider" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGkwdzI2dndpZ3lubjk2bHFvM2EyaDBsMndsN2ZudzU0Ym1ocXIweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I6wUi5eTdUCWI/giphy.gif" width="100%" alt="C1PHER1111" />
 </div>
